@@ -1,0 +1,8 @@
+D:\АТТЕСТАЦИЯ 2\9.1.15 (console)\bin\Debug\9.1.15 (console).exe.config
+D:\АТТЕСТАЦИЯ 2\9.1.15 (console)\bin\Debug\9.1.15 (console).exe
+D:\АТТЕСТАЦИЯ 2\9.1.15 (console)\bin\Debug\9.1.15 (console).pdb
+D:\АТТЕСТАЦИЯ 2\9.1.15 (console)\obj\Debug\9.1.15 (console).csprojResolveAssemblyReference.cache
+D:\АТТЕСТАЦИЯ 2\9.1.15 (console)\obj\Debug\9.1.15 (console).exe
+D:\АТТЕСТАЦИЯ 2\9.1.15 (console)\obj\Debug\9.1.15 (console).pdb
+D:\АТТЕСТАЦИЯ 2\9.1.15 (console)\bin\Debug\BL.dll
+D:\АТТЕСТАЦИЯ 2\9.1.15 (console)\bin\Debug\BL.pdb

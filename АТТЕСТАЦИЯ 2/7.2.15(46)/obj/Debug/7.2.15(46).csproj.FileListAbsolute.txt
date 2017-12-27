@@ -1,0 +1,11 @@
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\bin\Debug\7.2.15(46).exe.config
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\bin\Debug\7.2.15(46).exe
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\bin\Debug\7.2.15(46).pdb
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\bin\Debug\BL.dll
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\bin\Debug\BL.pdb
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\obj\Debug\_7._2._15_46_.Form1.resources
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\obj\Debug\_7._2._15_46_.Properties.Resources.resources
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\obj\Debug\7.2.15(46).csproj.GenerateResource.Cache
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\obj\Debug\7.2.15(46).exe
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\obj\Debug\7.2.15(46).pdb
+D:\АТТЕСТАЦИЯ 2\7.2.15(46)\obj\Debug\7.2.15(46).csprojResolveAssemblyReference.cache

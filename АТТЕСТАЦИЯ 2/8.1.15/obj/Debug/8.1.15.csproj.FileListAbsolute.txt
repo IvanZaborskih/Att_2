@@ -1,0 +1,11 @@
+D:\АТТЕСТАЦИЯ 2\8.1.15\bin\Debug\8.1.15.exe.config
+D:\АТТЕСТАЦИЯ 2\8.1.15\obj\Debug\8.1.15.csprojResolveAssemblyReference.cache
+D:\АТТЕСТАЦИЯ 2\8.1.15\obj\Debug\_8._1._15.Form1.resources
+D:\АТТЕСТАЦИЯ 2\8.1.15\obj\Debug\_8._1._15.Properties.Resources.resources
+D:\АТТЕСТАЦИЯ 2\8.1.15\obj\Debug\8.1.15.csproj.GenerateResource.Cache
+D:\АТТЕСТАЦИЯ 2\8.1.15\bin\Debug\8.1.15.exe
+D:\АТТЕСТАЦИЯ 2\8.1.15\bin\Debug\8.1.15.pdb
+D:\АТТЕСТАЦИЯ 2\8.1.15\bin\Debug\BL.dll
+D:\АТТЕСТАЦИЯ 2\8.1.15\bin\Debug\BL.pdb
+D:\АТТЕСТАЦИЯ 2\8.1.15\obj\Debug\8.1.15.exe
+D:\АТТЕСТАЦИЯ 2\8.1.15\obj\Debug\8.1.15.pdb
